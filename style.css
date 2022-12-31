@@ -6,3 +6,7 @@ h1 {
 p {
    text-decoration-color: blue;
 }
+li{
+    text-align: center;
+    text-size: 20px;
+}
